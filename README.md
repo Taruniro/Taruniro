@@ -4,7 +4,7 @@
 
 💡 Working on the fields of Biostatistics (Genomics), Emergency Medicine Risk Management
   
-I have some experience in computational physics and electronics
+Computational Physics Tools
 
 <p align="left">
   <a href="https://www.wolfram.com/language/" target="_blank" rel="noreferrer"> 
