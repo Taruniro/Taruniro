@@ -13,9 +13,6 @@ I have some experience in computational physics and electronics
   <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="36" height="36"/> </a>
 
-  <a href="https://www.comsol.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="36" height="36"/> </a>
-
   <a href="https://www.ansys.com" target="_blank" rel="noreferrer"> 
   <img src="https://ww2.freelogovectors.net/svg17/ansys_logo-freelogovectors.net.svg" alt="ansys" width="36" height="36"/> </a>
   
