@@ -4,8 +4,9 @@
 
 <pre>
   ⚙️ Working on the fields of 
-  💻 I have some experience with Wolfram Language, Python, 
+  💻 I have some experience with Wolfram Language (Summer Research Program Scholarship at Boston MA), Python, 
 </pre>
+
 
 📫 Feel free to contact me via gmail `phuphinyol@gmail.com` and my personal discord `sadstorm`
 
