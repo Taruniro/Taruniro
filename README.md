@@ -1,6 +1,11 @@
 ### Hello World. I'm Tar! 👋
 
-🌱✨ A wannabe physicist doing engineering in medical school at Faculty of Medicine Ramathibodi Hospital, Mahidol Univeristy, Thailand (Medical student of M.D. - M.Eng. Program) 🩺, also a former IYPT competitors in 2021-2023. I have some experience with Wolfram Language,
+🌱✨ A wannabe physicist doing engineering in medical school at Faculty of Medicine Ramathibodi Hospital, Mahidol Univeristy, Thailand 🇹🇭 (Medical student of M.D. - M.Eng. Program) 🩺 and IYPT 2023 gold medalist. 
+<pre>
+  I have some experience with 
+  Wolfram Language 
+</pre>
+
 
 <!--
 **Taruniro/Taruniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
