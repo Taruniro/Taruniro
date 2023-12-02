@@ -1,5 +1,6 @@
-### Hello World! <img src="https://pic.funnygifsbox.com/uploads/2022/05/funnygifsbox.com-2022-05-11-09-29-40-27.gif" width="25px">
+### Hello World! 👋
 
+Phuphinyo Limchantra here! (Feel free to call me **Tar** for short). A wannabe physicist doing engineering in medical school at *Faculty of Medicine Ramathibodi Hospital, Mahidol Univeristy* (M.D. - M.Eng. Program)
 
 <!--
 **Taruniro/Taruniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
