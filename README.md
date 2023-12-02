@@ -1,9 +1,9 @@
 ### Hello World! 👋
-
-Phuphinyo Limchantra here! (Feel free to call me **Tar** for short). 
-🌱✨ A wannabe physicist doing engineering in medical school at Faculty of Medicine Ramathibodi Hospital, Mahidol Univeristy 🩺.
-
-
+<pre>
+Phuphinyo Limchantra here! (Feel free to call me **Tar** for short)!
+🌱✨ A wannabe physicist doing engineering in medical school at Faculty of Medicine Ramathibodi Hospital, Mahidol Univeristy 🩺 (Medical student of M.D. - M.Eng. Program). 
+⚙️
+</pre>
 <!--
 **Taruniro/Taruniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
