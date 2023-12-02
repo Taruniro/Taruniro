@@ -5,8 +5,10 @@
 <pre>
   ⚙️ Working on the fields of 
   💻 I have some experience with 
-    - Wolfram Language (Summer Research Program Scholarship at Boston MA)
-    - Python
+    - Symbolic Mathematics: Wolfram Language (Summer Research Program Scholarship at Boston MA)
+    - Python (Image Analysis ML, Physics Simulation, )
+    - 
+    - JavaScript, C, C++ ()
 </pre>
 
 
