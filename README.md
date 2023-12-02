@@ -4,7 +4,9 @@
 
 <pre>
   ⚙️ Working on the fields of 
-  💻 I have some experience with Wolfram Language (Summer Research Program Scholarship at Boston MA), Python, 
+  💻 I have some experience with 
+    - Wolfram Language (Summer Research Program Scholarship at Boston MA)
+    - Python
 </pre>
 
 
