@@ -1,4 +1,5 @@
-### Hello World 👋
+### Hello World! <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://funnygifsbox.com/23-cute-fat-tiger-emoji/dm_20220511172344_010#main)" width="25px">
+
 
 <!--
 **Taruniro/Taruniro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
