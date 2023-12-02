@@ -4,5 +4,5 @@
 
 Feel free to contact me on:
   
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" width="25px"> Discord: sadstorm
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" width="16px"> Discord: sadstorm
 
