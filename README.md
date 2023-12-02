@@ -17,7 +17,7 @@ For physics
   <img src="https://cdn.worldvectorlogo.com/logos/comsol-logo.svg" alt="comsol" width="36" height="36"/> </a>
 
   <a href="https://www.ansys.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/2560px-Ansys_logo_%282019%29.svg.png" alt="ansys" width="36" height="36"/> </a>
+  <img src="https://ww2.freelogovectors.net/wp-content/uploads/2023/11/ansys_logo-freelogovectors.net_.png" alt="ansys" width="36" height="36"/> </a>
   
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/> </a>
