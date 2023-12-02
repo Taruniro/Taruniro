@@ -7,9 +7,10 @@
   I have some experience with
   
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/> 
 </a>
     
+
 
 📫 Feel free to contact me via gmail `phuphinyol@gmail.com` and my personal discord `sadstorm`
 
