@@ -3,8 +3,8 @@
 > 🌱✨ A wannabe physicist doing engineering in medical school at Faculty of Medicine Ramathibodi Hospital, Mahidol University, Thailand 🇹🇭 (Medical student of M.D. - M.Eng. Program) 🩺 and IYPT 2023 Gold Medalist (Attending 2021-2023). #RookieCoder
 
 💡 Working on the fields of Biostatistics (Genomics), Machine Learning (Two way SST-TTS) and System Modelling <br>
-🎯 Emergency Medicine: Risk Management and Screening Strategy
-✈️ Wolfram Summer School Scholarship at Boston MA, Thailand CERN Inspection Offer
+🎯 Emergency Medicine: Risk Management and Screening Strategy <br>
+✈️ Wolfram Summer School Scholarship at Boston MA
 
 These are some languages and tools I have some experience with:
 |⚙️ Computational Physics| 🧬 Biostatistics | 💻 Common Languages|
