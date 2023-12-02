@@ -5,10 +5,15 @@
 💡 Working on the fields of Biostatistics (Genomics), Emergency Medicine Risk Management
   
   I have some experience with
+
+<a href="https://www.wolfram.com/language/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/wolfram-language.svg" alt="wolfram" width="36" height="36"/> </a>
   
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/> 
-</a>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/> </a>
+  
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/> </a>
     
 
 
