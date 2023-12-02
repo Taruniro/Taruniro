@@ -1,4 +1,4 @@
-### Hello World! <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://funnygifsbox.com/23-cute-fat-tiger-emoji/dm_20220511172344_010#main)" width="25px">
+### Hello World! <img src="https://pic.funnygifsbox.com/uploads/2022/05/funnygifsbox.com-2022-05-11-09-29-40-27.gif" width="25px">
 
 
 <!--
